@@ -37,9 +37,7 @@
     </head>
     <body>
         <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
-            </div>
+           Top laravel 5
         </div>
     </body>
 </html>
