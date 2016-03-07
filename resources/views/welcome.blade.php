@@ -37,7 +37,7 @@
     </head>
     <body>
         <div class="container">
-           Top laravel 5
+           Top laravel 6
         </div>
     </body>
 </html>
